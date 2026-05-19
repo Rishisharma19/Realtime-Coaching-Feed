@@ -1,4 +1,4 @@
-# SyncUp — Realtime Coaching Feed
+# Realtime Coaching Feed
 
 A full-stack realtime coaching feed application built with Node.js, Express, Next.js, MongoDB, Redis, and Socket.IO.
 
